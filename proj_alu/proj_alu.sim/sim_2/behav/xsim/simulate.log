@@ -1,0 +1,9 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+*** Start of ALU Testbench Simulation ***
+*** Start of ALU Testbench Simulation ***
+*** Simulation Complete ***
+$finish called at time : 2685 ns : File "/auto/fsb/ryan9801/ECEN_323/lab02/tb_alu.sv" Line 148
+*** Start of ALU Testbench Simulation ***
+*** Simulation Complete ***
+$finish called at time : 2685 ns : File "/auto/fsb/ryan9801/ECEN_323/lab02/tb_alu.sv" Line 148

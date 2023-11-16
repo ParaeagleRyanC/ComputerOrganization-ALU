@@ -1,0 +1,5 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+*** Start of Calculator Testbench Simulation ***
+*** Successful simulation. Final count=0. Ended at 48240 ns *** 
+$finish called at time : 48240 ns : File "/auto/fsb/ryan9801/ECEN_323/lab02/tb_calc.sv" Line 126
