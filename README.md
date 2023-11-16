@@ -2,7 +2,7 @@
 
 An Arithmetic/Logic Unit or ALU is an important component of any processor system. This unit is the “brains” of the processor and performs the arithmetic functions such as addition and subtraction as well as logical functions such as AND/OR. 
 
-This ALU is created to be used for the [Pipelined-Forwarding RISC-V Processor]().
+This ALU is created to be used for the [Pipelined-Forwarding RISC-V Processor](https://github.com/ParaeagleRyanC/ComputerOrganization-PipelinedForwardingRiscVProcessor/).
 
 This program demonstrates the knowledge and the ability to
 * Apply Hierarchy in a top-level SystemVerilog design
